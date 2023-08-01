@@ -1,0 +1,10 @@
+@import url(https://db.onlinewebfonts.com/c/226f58ab113a6d821def90a7d6dc2427?family=GT+Pressura+Mono+Regular+Regular);
+
+* {
+    font-family: "GT Pressura Mono Regular Regular";
+}
+
+
+.HiddenBars::-webkit-scrollbar {
+    display: none;
+}
